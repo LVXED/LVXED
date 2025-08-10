@@ -75,12 +75,6 @@ I merge code & design into experiences that **stand out** and **deliver value**.
 
 ---
 
-## 📊 **GitHub Stats**
-![Lucas's GitHub Stats](https://github-readme-stats.vercel.app/api?username=LVXED&show_icons=true&theme=dark&hide_border=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=LVXED&layout=compact&theme=dark&hide_border=true)
-
----
-
 ## 📫 **Contact**
 [![🌐 Linktree](https://img.shields.io/badge/🌐_All_My_Links-000000?style=for-the-badge&logo=linktree&logoColor=00FF88)](https://linktr.ee/valxed.dev)  
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/LVXED)
