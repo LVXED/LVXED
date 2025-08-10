@@ -58,13 +58,12 @@ I merge code & design into experiences that **stand out** and **deliver value**.
 ---
 
 ## 💼 **Experience**
-**Founder & Developer @ Webifyx** *(2025 – Present)*  
-🚀 Building custom websites & apps with **automation & analytics**.  
-🎯 Serving clients **exclusively online**.  
+**Developer @TKMConsultores** *(2023 – Present)*  
+🚀 Designing and developing innovative applications and solutions for businesses and enterprises.
+🎯 Providing creative solutions and IT support for businesses and enterprises.
 
 **Fullstack Developer – Personal Projects** *(Ongoing)*  
 🔒 Developing a **secure cross-platform password manager**.  
-🎨 Creating an **underground-style portfolio**.  
 
 ---
 
