@@ -1,5 +1,3 @@
-<!-- Banner -->
-![Banner](https://images.unsplash.com/photo-1658549677516-b28676117c46)
 
 # 🦋 **Lucas** | Fullstack Developer • UX/UI Designer • Artist
 
