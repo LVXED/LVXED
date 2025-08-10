@@ -42,7 +42,6 @@ I merge code & design into experiences that **stand out** and **deliver value**.
 ![PHP](https://img.shields.io/badge/PHP-111111?style=for-the-badge&logo=php&logoColor=777BB4)
 ![Laravel](https://img.shields.io/badge/Laravel-111111?style=for-the-badge&logo=laravel&logoColor=FF2D20)
 ![Node.js](https://img.shields.io/badge/Node.js-111111?style=for-the-badge&logo=node.js&logoColor=339933)
-![Express.js](https://img.shields.io/badge/Express.js-111111?style=for-the-badge&logo=express&logoColor=white)
 ![.NET](https://img.shields.io/badge/.NET-111111?style=for-the-badge&logo=dotnet&logoColor=512BD4)
 
 **Databases:**  
