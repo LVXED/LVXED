@@ -1,4 +1,4 @@
-# 🦋 **Lucas** | Fullstack Developer • UX/UI Designer 
+# 🦋 **LVXED** | Fullstack Developer • UX/UI Designer 
 
 > _"Crafting code & design with an underground soul."_  
 
