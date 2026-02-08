@@ -7,7 +7,7 @@
   *Building scalable digital solutions with modern technologies*
 
   [![Portfolio](https://img.shields.io/badge/🌐_Portfolio-lvxed.com-7C3AED?style=for-the-badge)](https://lvxed.com)
-  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lucas-valdez)
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/valxed)
   [![Email](https://img.shields.io/badge/Email-contact@lvxed.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:contact@lvxed.com)
 
 </div>
