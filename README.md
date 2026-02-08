@@ -148,10 +148,6 @@ A web app that lets users generate QR codes, shorten long links, and scan QR cod
 
 <div align="center">
 
-  ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=LVXED&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117)
-
-  ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=LVXED&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117)
-
   ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=LVXED&theme=tokyonight&hide_border=true&background=0D1117)
 
 </div>
@@ -163,7 +159,7 @@ A web app that lets users generate QR codes, shorten long links, and scan QR cod
 I'm always open to interesting conversations and collaboration opportunities!
 
 - 🌐 **Portfolio:** [lvxed.com](https://lvxed.com)
-- 💼 **LinkedIn:** [linkedin.com/in/lucas-valdez](https://www.linkedin.com/in/lucas-valdez)
+- 💼 **LinkedIn:** [linkedin.com/in/valxed](https://www.linkedin.com/in/valxed)
 - 📧 **Email:** [contact@lvxed.com](mailto:contact@lvxed.com)
 - 🔗 **All Links:** [linktr.ee/valxed.dev](https://linktr.ee/valxed.dev)
 
